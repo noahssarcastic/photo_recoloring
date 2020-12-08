@@ -1,9 +1,9 @@
 # Materials Referenced:
-Lazy Snapping, Li et al. (2004)
-Palette-based Photo Recoloring, Chang et al. (2015)
-https://github.com/zhijie/lazy-snapping-
-https://github.com/pmneila/PyMaxflow
-https://realpython.com/k-means-clustering-python/
+* Lazy Snapping, Li et al. (2004)
+* Palette-based Photo Recoloring, Chang et al. (2015)
+* https://github.com/zhijie/lazy-snapping-
+* https://github.com/pmneila/PyMaxflow
+* https://realpython.com/k-means-clustering-python/
 
 
 # Requirements:
